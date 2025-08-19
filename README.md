@@ -20,3 +20,4 @@
 
 - Este proyecto es solo **demostrativo**, enfocado en la práctica de Git y manejo de ramas.
 - Para próximos releases se pueden agregar más funcionalidades como registro de usuario o recuperación de contraseña.
+## Flujo de Git (versión develop)
